@@ -8,3 +8,8 @@
     https://www.codewars.com/kata/5a55f04be6be383a50000187
 
 
+-------
+
+### Rank-Up
+- [ ] My smallest code interpreter (aka Brainf**k)
+   https://www.codewars.com/kata/526156943dfe7ce06200063e/train/swift

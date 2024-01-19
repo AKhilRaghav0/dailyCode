@@ -1,6 +1,9 @@
 # Daily Problems
 
 ### Basics
+- [x] Jumping Number
+  https://www.codewars.com/kata/5a54e796b3bfa8932c0000ed/train/swift
+  
 - [x] CodeWars Problem: Sum of angles
  https://www.codewars.com/kata/5a03b3f6a1c9040084001765/train/swift
 
@@ -21,3 +24,17 @@
 ### Rank-Up
 - [ ] My smallest code interpreter (aka Brainf**k)
    https://www.codewars.com/kata/526156943dfe7ce06200063e/train/swift
+
+
+
+   -----
+
+   #### LeetCode 
+
+   - [x] Excel Sheet Column Title    
+   https://leetcode.com/problems/excel-sheet-column-title/
+   - [x] Climbing Stairs
+    https://leetcode.com/problems/climbing-stairs/?envType=daily-question&envId=2024-01-18
+
+
+  
